@@ -11,6 +11,7 @@
 	This java code allows a user to enter a year and then checks if that year is a leap year  
 	The unit testing of the backend is done using jUnit. 
 	All testing dependencies were managed using Gradle. 
+	No database backing.
 
 #### _Setup/Installation Requirements_
 	Clone this repository
